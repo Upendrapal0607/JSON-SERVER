@@ -1,0 +1,68 @@
+{
+  "Products": [
+    {
+      "name": "Upendra pal ",
+      "image": "https://images.ctfassets.net/5de70he6op10/3FNPrm2fwspNv62ZkhABYi/9842e861a77e975b3a896cb32c853039/502333291-ls_m3.jpg?w=2648&q=80&fm=webp",
+      "price": "2052",
+      "brand": "jeans",
+      "category": "male",
+      "id": 18
+    },
+    {
+      "name": "Rahul yadav",
+      "image": "https://images.ctfassets.net/5de70he6op10/3FNPrm2fwspNv62ZkhABYi/9842e861a77e975b3a896cb32c853039/502333291-ls_m3.jpg?w=2648&q=80&fm=webp",
+      "price": "",
+      "brand": "jeans",
+      "category": "female",
+      "id": 19
+    },
+    {
+      "name": "Havock",
+      "image": "https://images.ctfassets.net/5de70he6op10/4mGRHQNAa9ATxqHTy2Kk0c/8474f020785aadc855ebc6449630946c/502333268-ls_customerfave_a.jpg?w=630&q=80&fm=webp",
+      "price": 562,
+      "brand": "cloth",
+      "category": "kids",
+      "id": 20
+    },
+    {
+      "name": "upendra",
+      "image": "https://images.ctfassets.net/5de70he6op10/4mGRHQNAa9ATxqHTy2Kk0c/8474f020785aadc855ebc6449630946c/502333268-ls_customerfave_a.jpg?w=630&q=80&fm=webp",
+      "price": 54564,
+      "brand": "top-wear",
+      "category": "kids",
+      "id": 21
+    },
+    {
+      "name": "Havock",
+      "image": "https://images.ctfassets.net/5de70he6op10/3FNPrm2fwspNv62ZkhABYi/9842e861a77e975b3a896cb32c853039/502333291-ls_m3.jpg?w=2648&q=80&fm=webp",
+      "price": 8624653665,
+      "brand": "top-wear",
+      "category": "female",
+      "id": 22
+    },
+    {
+      "name": "upendra pal",
+      "image": "https://picsum.photos/200",
+      "price": 233131,
+      "brand": "jeans",
+      "category": "male",
+      "id": 23
+    },
+    {
+      "name": "Light jeance",
+      "image": "https://picsum.photos/200",
+      "price": 2500,
+      "brand": "jeans",
+      "category": "female",
+      "id": 24
+    },
+    {
+      "name": "Kids Cap",
+      "image": "https://images.ctfassets.net/5de70he6op10/3FNPrm2fwspNv62ZkhABYi/9842e861a77e975b3a896cb32c853039/502333291-ls_m3.jpg?w=2648&q=80&fm=webp",
+      "price": 50,
+      "brand": "other",
+      "category": "kids",
+      "id": 25
+    }
+  ]
+}
